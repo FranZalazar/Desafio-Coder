@@ -79,6 +79,44 @@ body{
 
 }
 
+.text-secundario{
+
+    text-align: center;
+    padding: 1rem;
+    justify-content: space-between;
+    background-color: var(--primario);
+
+}
+
+.text-terciario{
+
+    text-align: center;
+    font-size: 4rem;
+
+}
+
+.mas{
+
+    text-align: center;
+    font-size: 3rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .pie-pagina{
 
     background-color: var(--secundario);
