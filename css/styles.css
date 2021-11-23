@@ -83,7 +83,31 @@ body{
 .pie-pagina{
 
     background-color: var(--secundario);
-     
+    text-align: center;
+    padding: 1rem;
+    overflow: hidden;
+    
+    
+}
+
+.insta{
+
+    float: left;
+}
+
+.face{
+
+    float: left;
+}
+
+.linke{
+
+    float: left;
+}
+
+.yt{
+
+    float: left;
 }
 
 
