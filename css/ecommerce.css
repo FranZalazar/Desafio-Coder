@@ -6,6 +6,7 @@
     --secundario: #0097a7;
     --gris: #757575;
     --azul: #151396;
+    --naranja: #ff8c00;
 
 
     --fuente-principal: 3.8rem;
@@ -72,7 +73,7 @@ body{
 
 .navegacion-principal a {
 
-    background-color: var(--primario);
+    background-color: var(--naranja);
     color: var(--blanco);
     text-decoration: none;
     font-size: 2rem;
@@ -82,4 +83,29 @@ body{
 .pie-pagina{
 
     background-color: var(--secundario);
+    text-align: center;
+    padding: 1rem;
+    overflow: hidden;
+    
+    
+}
+
+.insta{
+
+    float: left;
+}
+
+.face{
+
+    float: left;
+}
+
+.linke{
+
+    float: left;
+}
+
+.yt{
+
+    float: left;
 }
